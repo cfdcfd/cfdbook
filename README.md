@@ -8,47 +8,9 @@ vs'code
 
 ### 第二章 版本控制————git
 
-#### 管理多个远程git仓库
+#### part1如何安装git
 
-假如你有多个远程的git仓库，该如何管理
-
-举例来说
-你有一个公司的gitlab账号，用来登陆公司的项目，同时你自己在github上有自己的程序
-设置两个文件夹namegithub，namegitlab
-
-1. 设置局部的user.name和user.email
-有多个远程仓库时，不建议设置全局(使用参数--global)用户名和邮箱
-
-
-1. ssh key的设置
-ssh-keygen -t rsa -C "your github email@...com" 
-回车后将id_rsa改为id\_rsa\_github
-然后一路回车
-
-ssh-keygen -t rsa -C "your gitlab email@...com" 
-回车后将id_rsa改为id\_rsa\_gitlab
-然后一路回车
-
-2. 写config文件
-在.ssh中新建一个文本文件contig
-
-```
-# github
-Host github.com
-    HostName github.com
-    PreferredAuthentications publickey
-    IdentityFile ~/.ssh/id_rsa_cfdgithub
-    User cfdcfd
-
-# gitlab
-Host jkom-dev.chinacloudapp.cn
-    HostName jkom-dev.chinacloudapp.cn
-    PreferredAuthentications publickey
-    IdentityFile ~/.ssh/id_rsa
-    User fudong.cheng
-
-```
-
+#### part3管理多个远程git仓库
 
 
 ## 第二部分 基础知识
