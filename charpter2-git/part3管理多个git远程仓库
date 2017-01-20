@@ -9,15 +9,15 @@
 
 
 1. ssh key的设置
-ssh-keygen -t rsa -C "your_github_email_1@...com" 
+ssh-keygen -t rsa -C "your_github_email_2@example.com" 
 回车后将id_rsa改为id\_rsa\_github1
 然后一路回车
 
-ssh-keygen -t rsa -C "your_github_email_2@...com" 
+ssh-keygen -t rsa -C "your_github_email_2@examplecom" 
 回车后将id_rsa改为id\_rsa\_github2
 然后一路回车
 
-ssh-keygen -t rsa -C "your_gitlab_email@...com" 
+ssh-keygen -t rsa -C "your_gitlab_email@examplecom" 
 回车后将id_rsa改为id\_rsa\_gitlab
 然后一路回车
 
