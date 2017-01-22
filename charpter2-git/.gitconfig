@@ -1,0 +1,16 @@
+[gui]
+[gui]
+	recentrepo = D:/python/git
+[user]
+
+[alias]
+    b = branch
+    c = commit
+    ch = checkout
+	cf = config
+	cfn = config user.name
+	cfe = config user.email
+    last = log -1 HEAD
+	st = status
+	m = merge
+	unstage = reset HEAD --
