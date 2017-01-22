@@ -41,6 +41,13 @@ tasklist|findstr "PID"
 
 ## 第三部分 框架的学习
 
-web的运用
+web server 
+### 开发
+#### Python Django 
+#### Python Flask
 
+### 测试
+#### Python spliter
+#### Python se
+selenium + python 鼠标事件
 
