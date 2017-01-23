@@ -50,8 +50,12 @@ web server
 ### 开发
 #### Python Django 
 #### Python Flask
+https://github.com/pallets/flask/tree/master/examples/flaskr
+http://docs.jinkan.org/docs/flask/
 flask_sqlalchemy 模块
+http://flask-sqlalchemy.pocoo.org/2.1/
 #### Python sqlalchemy
+http://docs.sqlalchemy.org/en/latest/intro.html
 
 ### web自动化测试
 #### Python spliter
@@ -59,4 +63,30 @@ flask_sqlalchemy 模块
 selenium + python 鼠标事件
 
 
+
+#### python
+- pika包
+- 装饰器 done
+- 偏函数
+- opencv包
+- Requests包：http测试
+- flask
+
+#### git
+- git fetch
+
+#### UML语言
+- 类图
+
+#### 学习MVC框架
+- [开源框架说明](http://taurus.cyqdata.com/home/index)
+- [MVC开源代码](https://github.com/cfdcfd/Taurus.MVC)
+
+#### C\# 
+- 学习C#语言的基础知识， 掌握如何创建一个简单
+的控制台程序(24h)
+
+#### spark分布式运算框架
+- 查如何学习spark
+- http://spark.apache.org/
 
