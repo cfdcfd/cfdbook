@@ -50,11 +50,12 @@ web server
 ### 开发
 #### Python Django 
 #### Python Flask
+flask_sqlalchemy 模块
 #### Python sqlalchemy
 
-### 测试
+### web自动化测试
 #### Python spliter
-#### Python se
+#### Python selenium
 selenium + python 鼠标事件
 
 
