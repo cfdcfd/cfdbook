@@ -33,11 +33,16 @@ ascii码模式文本传输，部分FTP软件传输时会自动对换行模式进
 
 一些文本编辑器会提供换行符的自动变化(例如vscode)
 
+服务器默认的port
+3306 提供数据库服务的默认端口 
+
 windows端口查找
 netstat -ano
 获得port 对应PID 
 tasklist|findstr "PID"
 由PID找对应exe
+
+
 
 ## 第三部分 框架的学习
 
@@ -45,9 +50,12 @@ web server
 ### 开发
 #### Python Django 
 #### Python Flask
+#### Python sqlalchemy
 
 ### 测试
 #### Python spliter
 #### Python se
 selenium + python 鼠标事件
+
+
 
