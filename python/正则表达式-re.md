@@ -7,6 +7,7 @@ python中正则表达式的常用模块
 
 [常见unicode编码表](http://www.cnblogs.com/chenwenbiao/archive/2011/08/17/2142718.html)
 列举常用区间如下：
+- \u3000            全角空格的16进制Unicode编码
 - [\u4e00-\u9fbf]	CJK(中日韩)统一表意符号
 - [\u4e00-\u9fa5]	汉字范围，包括部分日韩字符 
 - [aeiou]           匹配中括号内的任意一个字母
