@@ -96,3 +96,8 @@ selenium + python 鼠标事件
 - 查如何学习spark
 - http://spark.apache.org/
 
+## 第三部分 实践
+
+#### 自然语言处理(NLP)
+
+#### 图像处理
