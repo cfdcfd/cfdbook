@@ -4,7 +4,7 @@
 ## 第一部分 工具篇
 
 ### 第一章 文本编辑器
-vs'code
+vscode
 
 ### 第二章 版本控制————git
 
@@ -101,8 +101,15 @@ selenium + python 鼠标事件
 <<<<<<< HEAD
 ## to do list
 
+<<<<<<< HEAD
 =======
 #### 自然语言处理(NLP)
 >>>>>>> develop
+=======
+## to do list
+
+
+
+>>>>>>> Flask
 
 #### 图像处理
