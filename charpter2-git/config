@@ -1,0 +1,13 @@
+# gitlab
+Host jkom-dev.chinacloudapp.cn
+    HostName jkom-dev.chinacloudapp.cn
+    PreferredAuthentications publickey
+    IdentityFile ~/.ssh/id_rsa_fudongcheng
+    User fudong.cheng
+
+# githup
+Host github.com
+    HostName github.com
+    PreferredAuthentications publickey
+    IdentityFile ~/.ssh/id_rsa_gmail
+    User dongfshuo
